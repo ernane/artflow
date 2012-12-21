@@ -6,8 +6,7 @@
 # We make no guarantees that this code is fit for any purpose. 
 # Visit http://www.pragmaticprogrammer.com/titles/warv for more book information.
 #---
-class PagesController < ApplicationController
-  def home
+class DesignersController < ApplicationController
+  def index
   end
-
 end
